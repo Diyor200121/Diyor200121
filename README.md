@@ -1,6 +1,6 @@
 ###  Ассалому алейкум!😁
 ## 💫About me:
-*  👋Hello my Name Is Diyor
+*  👋Hello my Name Is Diyor Ergashev
 *  👨‍💻I am a developer and my main programming language — Java☕️
 *  🌱 I’m currently learning PDP Academy
 *  📫 How to reach me: https://t.me/diyor571
