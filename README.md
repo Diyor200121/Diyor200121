@@ -1,4 +1,4 @@
-###  Ассалому алейкум!😁
+###  Ассалому алейкум
 ## 💫About me:
 *  👋Hello my Name Is Diyor Ergashev
 *  👨‍💻I am a developer and my main programming language — Java☕️
